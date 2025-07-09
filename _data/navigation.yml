@@ -6,7 +6,7 @@ main:
 sidebar-category:
  - title: "스터디"
  children: 
-   - title: "Java"
-     url: "/Java"
+   - title: "java"
+     url: "/java"
    - title: "정처기"
      url: "/jung"
