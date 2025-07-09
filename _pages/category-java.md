@@ -1,7 +1,9 @@
 ---
-title: "java"
+title: "Java 알고리즘"
 layout: archive
-permalink: /java
+permalink: categories/java
+author_profile: true
+sidebar_main: true
 ---
 
 
