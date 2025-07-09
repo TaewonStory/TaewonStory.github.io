@@ -1,4 +1,8 @@
 # main links
+main:
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  
 sidebar-category:
  - title: "스터디"
  children: 
@@ -6,6 +10,3 @@ sidebar-category:
      url: "/Java"
    - title: "정처기"
      url: "/jung"
-
-  # - title: "Sitemap"
-  #   url: /sitemap/
