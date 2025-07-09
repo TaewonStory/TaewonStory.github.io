@@ -3,11 +3,9 @@ main:
  - title: "스터디"
  children: 
    - title: "Java"
-     url: categories/Java
-     category: "Java"
+     url: "/Java"
    - title: "정처기"
-     url: categories/정처기
-     category: "정처기"
+     url: "/jung"
 
   # - title: "Sitemap"
   #   url: /sitemap/
