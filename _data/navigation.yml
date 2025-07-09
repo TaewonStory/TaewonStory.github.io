@@ -1,5 +1,5 @@
 # main links
-main:
+sidebar-category:
  - title: "스터디"
  children: 
    - title: "Java"
